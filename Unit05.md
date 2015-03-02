@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Integration** <span id="5"></span> 
 *We earlier defined analytic or holomorphic functions as functions
 differentiable in an open set.  We will now see that the derivative of

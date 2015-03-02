@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Harmonic Functions and Conformal Mappings** <span
 id="8"></span> 
 *In Unit 2, we talked about the Cauchy Riemann equations.  Because of

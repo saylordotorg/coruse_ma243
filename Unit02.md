@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Complex Functions** <span id="2"></span> 
 *In this unit, we will learn about functions that depend on a single
 complex variable that have values in the complex plane.  We will begin

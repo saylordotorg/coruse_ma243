@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA243: Complex Analysis"
 ---------------------------------------------
 

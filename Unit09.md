@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Final Exam** <span id="9"></span> 
 -   **Final Exam: The Saylor Foundation's MA243 Final Exam**
     Link: The Saylor Foundation's [MA243 Final

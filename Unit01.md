@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Complex Numbers** <span id="1"></span> 
 *The set of real numbers is a field that is not algebraically closed. 
 In other words, some polynomials with real coefficients do not have a

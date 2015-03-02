@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Examples of Complex Functions** <span id="4"></span> 
 *Now that we have reviewed power series, we will use them to define the
 exponential function and the functions cosine and sine in the complex

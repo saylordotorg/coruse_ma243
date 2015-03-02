@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Power Series** <span id="3"></span> 
 *A power series with complex coefficients can be considered a
 generalization of a polynomial function. Since the terms are

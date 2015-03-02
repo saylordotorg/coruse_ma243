@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Residue Theory** <span id="7"></span> 
 *The unit opens with the Residue Theorem, one of the most useful results
 in complex analysis, which allows one to calculate many integrals which

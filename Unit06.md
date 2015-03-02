@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA243: Complex Analysis"
+course_description: "An introduction to the theory of the analytic functions of a complex variable."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Singularities and Power Series** <span id="6"></span> 
 *In this unit we will consider functions that are analytic in a disk
 with the center removed. (The center of the disk is called an isolated
