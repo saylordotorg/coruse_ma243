@@ -122,4 +122,14 @@ assignments, and assessments.
     
  **Time Commitment: 113 hours**  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/ma243/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma243/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma243/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma243/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma243/Unit05/)
+- [Unit 6](https://legacy.saylor.org/ma243/Unit06/)
+- [Unit 7](https://legacy.saylor.org/ma243/Unit07/)
+- [Unit 8](https://legacy.saylor.org/ma243/Unit08/)
+- [Unit 9](https://legacy.saylor.org/ma243/Unit09/)
