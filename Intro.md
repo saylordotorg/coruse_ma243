@@ -150,3 +150,4 @@ assignments, and assessments.
 - [Unit 7](https://legacy.saylor.org/ma243/Unit07/)
 - [Unit 8](https://legacy.saylor.org/ma243/Unit08/)
 - [Unit 9](https://legacy.saylor.org/ma243/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA243/MA243-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA243/MA243-FinalExam-Answers.html)
