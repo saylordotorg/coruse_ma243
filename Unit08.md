@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[6.1: Harmonic Functions: Definitions and Basic
-    Properties](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Properties](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 69 (marked page 65) of the
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[6.2: Harmonic Functions: Mean-Value and
     Maximum/Minimum
-    Principle](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Principle](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 71 (marked page 67) of the

@@ -74,7 +74,7 @@ id="6.1"></span> 
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[8.1: Taylor and Laurent Series: Power Series and
     Holomorphic
-    Functions](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 90 (marked page 86) of the
@@ -93,7 +93,7 @@ id="6.1"></span> 
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[8.3: Taylor and Laurent Series: Laurent
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 95 (marked page 91) of the
@@ -128,7 +128,7 @@ id="6.1"></span> 
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[8.2: Taylor and Laurent Series: Classification
     of Zeros and the Identity
-    Principle](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Principle](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 93 (marked page 89) of the

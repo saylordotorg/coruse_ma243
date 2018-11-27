@@ -56,7 +56,7 @@ Upon successful completion of this unit, the student will be able to:
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[7.1: Power Series: Sequences and Completeness”
     and “7.2 Power Series:
-    Series](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Series](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 74 (marked page 70) of the
@@ -76,7 +76,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[7.3: Power Series: Sequences and Series of
-    Functions](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 79 (marked page 75) of the
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[7.4: Power Series: Region of
-    Convergence](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Convergence](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 82 (marked page 78) of the

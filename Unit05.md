@@ -100,7 +100,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[4.1 Integration: Definition and Basic
-    Properties](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Properties](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 48 (marked page 44) of the
@@ -216,7 +216,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[4.2: Integration: Cauchy’s
-    Theorem](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Theorem](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 51 (marked page 47) of the
@@ -262,7 +262,7 @@ id="5.4"></span> 
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[Integration: Cauchy’s Integral
-    Formula](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Formula](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 53 (marked page 49) of the
@@ -307,7 +307,7 @@ id="5.4"></span> 
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[5.1: Consequences of Cauchy’s Theorem:
     Extensions of Cauchy’s
-    Formula](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Formula](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 59 (marked page 55) of the
@@ -331,7 +331,7 @@ id="5.4"></span> 
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[5.2: Consequences of Cauchy’s Theorem: Taking
     Cauchy’s Formula to the
-    Limit](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Limit](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 61 (marked page 57) of the
@@ -353,7 +353,7 @@ id="5.4"></span> 
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[5.3: Consequences of Cauchy’s Theorem:
-    Antiderivatives](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Antiderivatives](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 64 (marked page 60) of the
