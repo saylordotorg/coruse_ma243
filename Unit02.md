@@ -72,7 +72,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[2.1: Differentiation: First
-    Steps](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Steps](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 19 (marked page 15) of the
@@ -92,7 +92,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[2.2: Differentiation: Differentiability and
-    Holomorphicity](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Holomorphicity](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 21 (marked page 17) of the
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[2.4: Differentiation: The Cauchy-Riemann
-    Equations](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Equations](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 24 (marked page 20) of the

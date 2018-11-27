@@ -50,7 +50,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[3.1: Examples of Functions: Möbius
-    Transformations](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Transformations](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 30 (marked page 26) of the
@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[3.2: Examples of Functions: Infinity and the
     Cross
-    Ratio](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Ratio](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 33 (marked page 29) of the
@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[3.4: Examples of Functions: Exponential and
     Trigonometric
-    Functions](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Functions](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 38 (marked page 34) of the
@@ -128,7 +128,7 @@ Upon successful completion of this unit, the student will be able to:
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[3.5: Examples of Functions: The Logarithm and
     Complex
-    Exponentials](http://www.saylor.org/site/wp-content/uploads/2012/01/complex.pdf)”
+    Exponentials](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 41 (marked page 37) of the
