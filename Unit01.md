@@ -59,7 +59,7 @@ Upon successful completion of this unit, the student will be able to:
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[1.0-1.1: Introduction and Definitions and
     Algebraic
-    Properties](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
+    Properties](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 5 (marked page 1) of the document
@@ -97,7 +97,7 @@ id="1.2.1"></span> 
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s: A First Course in
     Complex Analysis: “[1.2: From Algebra to Geometry and
-    Back](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
+    Back](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 7 (marked page 3) of the document
@@ -146,7 +146,7 @@ id="1.2.1"></span> 
     Link: San Francisco State University: Matthias Beck, Gerald
     Marchesi, Dennis Pixton, and Lucas Sabalka’s A First Course in
     Complex Analysis: “[1.3: Geometric
-    Properties](https://resources.saylor.org/archived/wp-content/uploads/2012/01/complex.pdf)”
+    Properties](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/complex.pdf)”
     (PDF)  
         
      Instructions: Scroll down to page 10 (marked page 6) of the
